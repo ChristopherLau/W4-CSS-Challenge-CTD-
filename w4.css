@@ -6,5 +6,35 @@
 }
 
 h1 {
+color: blue;
+}
 
+h2 {
+color: crimson;
+}
+
+a {
+color: purple;
+}
+
+li {
+font-weight: bold; color: brown;
+}
+
+p {
+color: midnightblue;
+}
+
+img {
+    float: right;
+}
+
+h1 {
+    text-decoration: underline; background-color: deepskyblue;
+}
+
+.eslrTitle {
+font-weight: bold;
+font-size: 12pt;
+color: teal;
 }
